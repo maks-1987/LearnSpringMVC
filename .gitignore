@@ -1,0 +1,10 @@
+
+/.idea/
+/target/
+/SpringMVC.iml
+
+/Spring3MVC/Spring3MVC.iml
+/Spring3MVC/target/
+Spring3MVC/src/test/
+
+/Spring4MVC/target/
