@@ -14,12 +14,13 @@
 </head>
 <body>
 
+
     <h1>Add minutes exercised</h1>
 
     <form:form commandName="exercise">
         <table>
             <tr>
-                <td>Minutes exercise fro today: <addMinutes/td>
+                <td>Minutes exercise fro today: </td>
                 <td><form:input path="minutes"/></td>
             </tr>
             <tr>
